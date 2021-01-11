@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BeerKeeper</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="user_pref_key">USER</string>
+    <string name="maps_api_key">AIzaSyCNFs0Zx7kUwhhq9s4RNnB99djzsWfIxoE</string>
+</resources>
